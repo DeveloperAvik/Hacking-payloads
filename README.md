@@ -15,4 +15,4 @@
 To use the payloads in this repository, clone it to your local machine:
 
 ```bash
-git clone https://github.com/yourusername/Hacking-Payloads.git
+git clone https://github.com/DeveloperAvik/Hacking-payloads
